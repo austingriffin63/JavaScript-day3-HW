@@ -1,0 +1,30 @@
+.center-text{
+    text-align: center;
+    color: magenta;
+}
+.seemore_butts{
+    border-radius: 5px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 5px 2px #000000;
+
+}
+
+
+
+#Driver-Table{
+    margin-top: 50px;
+}
+
+#change-form{
+    padding: 0 50px;
+    
+}
+
+input[type="text"]{
+    margin-right: 20px;
+}
+
+.full-background{
+    background-image: linear-gradient(-90deg, red,yellow)
+
+}
